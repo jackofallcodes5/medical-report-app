@@ -1,0 +1,14 @@
+# Node
+BackEnd/node_modules/
+BackEnd/.env
+
+# Flutter
+App/build/
+App/.dart_tool/
+App/.packages
+App/.flutter-plugins
+App/.flutter-plugins-dependencies
+
+# General
+*.log
+.DS_Store
