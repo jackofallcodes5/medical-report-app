@@ -7,7 +7,7 @@ class ApiService {
   // For Android emulator, use 10.0.2.2 to reach host's localhost.
   // For a physical device on Wi-Fi, replace with your PC's local IP.
   // Example: 'http://192.168.1.100:3000'
-  static const String _baseUrl = 'https://sush-backend.onrender.com';
+  static const String _baseUrl = 'https://sushrut.onrender.com';
 
   /// Sends the medical report and/or file to the backend and returns the AI analysis.
   ///
